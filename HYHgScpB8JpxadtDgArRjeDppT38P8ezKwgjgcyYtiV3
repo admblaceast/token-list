@@ -1,0 +1,17 @@
+{
+  "name": "Storehouse Coin",
+  "symbol": "STORE",
+  "decimals": 9,
+  "address": "HYHgScpB8JpxadtDgArRjeDppT38P8ezKwgjgcyYtiV3",
+  "chainId": 101,
+  "logoURI": "REPLACE_WITH_PUBLIC_256x256_PNG_URL",
+  "tags": [
+    "utility",
+    "community",
+    "finance"
+  ],
+  "extensions": {
+    "website": "",
+    "description": "A digital asset built on Solana designed for community-driven savings, investing, and growth."
+  }
+}
